@@ -1,5 +1,5 @@
 # eternalwiki
-Source Code for the Eternal Wiki
+Source Code for the Eternal Wiki - IN DEVELOPMENT
 
 Important Links:
 - https://vitepress.dev/reference/site-config
